@@ -45,7 +45,7 @@
                                 {{ validation.type[0] }}
                             </div>
                         </div>
-                        <button class="btn btn-outline-primery">Submit</button>
+                        <button class="btn btn-outline-primary">Submit</button>
                     </form>
                 </div>
             </div>
